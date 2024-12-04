@@ -1,0 +1,131 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Dec 2024 16:12:33 at https://flockerz.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://flockerz.com/ -O1 "C:\Users\Lenovo\Downloads\hoe\flockez" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:13:25	Warning: 	Unable to test https://flockerz.com/assets/images/svg-icons/telegram.svg (loop to same filename)
+16:13:25	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/svg-icons/telegram.svg
+16:13:26	Warning: 	Unable to test https://flockerz.com/assets/images/svg-icons/twitter.svg (loop to same filename)
+16:13:26	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/svg-icons/twitter.svg
+16:13:32	Warning: 	Unable to test https://flockerz.com/assets/documents/solid-proof.pdf (loop to same filename)
+16:13:32	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/documents/solid-proof.pdf
+16:20:55	Warning: 	Unable to test https://flockerz.com/assets/documents/white-paper.pdf (loop to same filename)
+16:20:55	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/documents/white-paper.pdf
+16:21:46	Warning: 	Unable to test https://flockerz.com/assets/images/svg-icons/twitter.svg (loop to same filename)
+16:21:46	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/svg-icons/twitter.svg
+16:21:46	Warning: 	Unable to test https://flockerz.com/assets/images/svg-icons/telegram.svg (loop to same filename)
+16:21:46	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/svg-icons/telegram.svg
+16:22:31	Warning: 	Unable to test https://flockerz.com/chunk-4CVRM4BE.js (loop to same filename)
+16:22:31	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-4CVRM4BE.js
+16:22:32	Warning: 	Unable to test https://flockerz.com/chunk-SOBX5UMN.js (loop to same filename)
+16:22:32	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-SOBX5UMN.js
+16:22:32	Warning: 	Unable to test https://flockerz.com/chunk-5WS733PT.js (loop to same filename)
+16:22:32	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-5WS733PT.js
+16:22:33	Warning: 	Unable to test https://flockerz.com/chunk-DNDX3UGS.js (loop to same filename)
+16:22:33	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-DNDX3UGS.js
+16:22:34	Warning: 	Unable to test https://flockerz.com/chunk-53TPD4WS.js (loop to same filename)
+16:22:34	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-53TPD4WS.js
+16:22:35	Warning: 	Unable to test https://flockerz.com/chunk-QARRFSX4.js (loop to same filename)
+16:22:35	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-QARRFSX4.js
+16:22:36	Warning: 	Unable to test https://flockerz.com/chunk-UUTKIRVD.js (loop to same filename)
+16:22:36	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-UUTKIRVD.js
+16:22:36	Warning: 	Unable to test https://flockerz.com/polyfills-EDZXTLZR.js (loop to same filename)
+16:22:36	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/polyfills-EDZXTLZR.js
+16:22:37	Warning: 	Unable to test https://flockerz.com/main-37F37ZOY.js (loop to same filename)
+16:22:37	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/main-37F37ZOY.js
+16:22:37	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://flockerz.com/)
+16:22:39	Warning: 	Moved Permanently for flockerz.com/robots.txt
+16:22:39	Warning: 	Redirected link is identical because of 'URL Hack' option: flockerz.com/robots.txt and https://flockerz.com/robots.txt
+16:22:39	Warning: 	Warning moved treated for flockerz.com/robots.txt (real one is https://flockerz.com/robots.txt)
+16:23:01	Warning: 	Unable to test https://flockerz.com/assets/images/commic-animated-background.webp (loop to same filename)
+16:23:01	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/commic-animated-background.webp
+16:23:01	Warning: 	Unable to test https://flockerz.com/assets/images/gif/comic/panel-1.gif (loop to same filename)
+16:23:01	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/gif/comic/panel-1.gif
+16:23:03	Warning: 	Unable to test https://flockerz.com/assets/images/gif/comic/panel-2.gif (loop to same filename)
+16:23:03	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/gif/comic/panel-2.gif
+16:23:03	Warning: 	Unable to test https://flockerz.com/assets/images/gif/comic/panel-3.gif (loop to same filename)
+16:23:03	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/gif/comic/panel-3.gif
+16:23:04	Warning: 	Unable to test https://flockerz.com/assets/images/gif/comic/panel-4.gif (loop to same filename)
+16:23:04	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/gif/comic/panel-4.gif
+16:23:04	Warning: 	Unable to test https://flockerz.com/assets/images/gif/comic/panel-5.gif (loop to same filename)
+16:23:04	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/gif/comic/panel-5.gif
+16:23:05	Warning: 	Unable to test https://flockerz.com/assets/images/gif/comic/panel-6.gif (loop to same filename)
+16:23:05	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/gif/comic/panel-6.gif
+16:23:05	Warning: 	Unable to test https://flockerz.com/assets/images/gif/comic/panel-7.gif (loop to same filename)
+16:23:05	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/gif/comic/panel-7.gif
+16:23:06	Warning: 	Unable to test https://flockerz.com/assets/images/gif/comic/panel-8.gif (loop to same filename)
+16:23:06	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/gif/comic/panel-8.gif
+16:23:07	Warning: 	Unable to test https://flockerz.com/assets/images/gif/comic/panel-9.gif (loop to same filename)
+16:23:07	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/gif/comic/panel-9.gif
+16:23:07	Warning: 	Unable to test https://flockerz.com/chunk-4CVRM4BE.js (loop to same filename)
+16:23:07	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-4CVRM4BE.js
+16:23:08	Warning: 	Unable to test https://flockerz.com/chunk-SOBX5UMN.js (loop to same filename)
+16:23:08	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-SOBX5UMN.js
+16:23:08	Warning: 	Unable to test https://flockerz.com/chunk-5WS733PT.js (loop to same filename)
+16:23:08	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-5WS733PT.js
+16:23:09	Warning: 	Unable to test https://flockerz.com/chunk-DNDX3UGS.js (loop to same filename)
+16:23:09	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-DNDX3UGS.js
+16:23:09	Warning: 	Unable to test https://flockerz.com/chunk-53TPD4WS.js (loop to same filename)
+16:23:09	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-53TPD4WS.js
+16:23:10	Warning: 	Unable to test https://flockerz.com/chunk-QARRFSX4.js (loop to same filename)
+16:23:10	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-QARRFSX4.js
+16:23:10	Warning: 	Unable to test https://flockerz.com/chunk-UUTKIRVD.js (loop to same filename)
+16:23:10	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-UUTKIRVD.js
+16:23:11	Warning: 	Unable to test https://flockerz.com/polyfills-EDZXTLZR.js (loop to same filename)
+16:23:11	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/polyfills-EDZXTLZR.js
+16:23:12	Warning: 	Unable to test https://flockerz.com/main-37F37ZOY.js (loop to same filename)
+16:23:12	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/main-37F37ZOY.js
+16:23:13	Warning: 	Unable to test https://flockerz.com/chunk-4CVRM4BE.js (loop to same filename)
+16:23:13	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-4CVRM4BE.js
+16:23:13	Warning: 	Unable to test https://flockerz.com/chunk-SOBX5UMN.js (loop to same filename)
+16:23:13	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-SOBX5UMN.js
+16:23:14	Warning: 	Unable to test https://flockerz.com/chunk-5WS733PT.js (loop to same filename)
+16:23:14	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-5WS733PT.js
+16:23:14	Warning: 	Unable to test https://flockerz.com/chunk-DNDX3UGS.js (loop to same filename)
+16:23:14	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-DNDX3UGS.js
+16:23:15	Warning: 	Unable to test https://flockerz.com/chunk-53TPD4WS.js (loop to same filename)
+16:23:15	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-53TPD4WS.js
+16:23:15	Warning: 	Unable to test https://flockerz.com/chunk-QARRFSX4.js (loop to same filename)
+16:23:15	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-QARRFSX4.js
+16:23:16	Warning: 	Unable to test https://flockerz.com/chunk-UUTKIRVD.js (loop to same filename)
+16:23:16	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-UUTKIRVD.js
+16:23:17	Warning: 	Unable to test https://flockerz.com/polyfills-EDZXTLZR.js (loop to same filename)
+16:23:17	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/polyfills-EDZXTLZR.js
+16:23:17	Warning: 	Unable to test https://flockerz.com/main-37F37ZOY.js (loop to same filename)
+16:23:17	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/main-37F37ZOY.js
+16:23:18	Warning: 	Unable to test https://flockerz.com/assets/images/svg-icons/telegram.svg (loop to same filename)
+16:23:18	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/svg-icons/telegram.svg
+16:23:18	Warning: 	Unable to test https://flockerz.com/assets/images/svg-icons/twitter.svg (loop to same filename)
+16:23:18	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/svg-icons/twitter.svg
+16:23:18	Warning: 	Unable to test https://flockerz.com/assets/documents/solid-proof.pdf (loop to same filename)
+16:23:18	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/documents/solid-proof.pdf
+16:23:18	Warning: 	Unable to test https://flockerz.com/assets/documents/white-paper.pdf (loop to same filename)
+16:23:18	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/documents/white-paper.pdf
+16:23:19	Warning: 	Unable to test https://flockerz.com/assets/images/svg-icons/twitter.svg (loop to same filename)
+16:23:19	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/svg-icons/twitter.svg
+16:23:19	Warning: 	Unable to test https://flockerz.com/assets/images/svg-icons/telegram.svg (loop to same filename)
+16:23:19	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/assets/images/svg-icons/telegram.svg
+16:23:19	Warning: 	Unable to test https://flockerz.com/chunk-4CVRM4BE.js (loop to same filename)
+16:23:19	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-4CVRM4BE.js
+16:23:20	Warning: 	Unable to test https://flockerz.com/chunk-SOBX5UMN.js (loop to same filename)
+16:23:20	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-SOBX5UMN.js
+16:23:20	Warning: 	Unable to test https://flockerz.com/chunk-5WS733PT.js (loop to same filename)
+16:23:20	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-5WS733PT.js
+16:23:21	Warning: 	Unable to test https://flockerz.com/chunk-DNDX3UGS.js (loop to same filename)
+16:23:21	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-DNDX3UGS.js
+16:23:21	Warning: 	Unable to test https://flockerz.com/chunk-53TPD4WS.js (loop to same filename)
+16:23:21	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-53TPD4WS.js
+16:23:22	Warning: 	Unable to test https://flockerz.com/chunk-QARRFSX4.js (loop to same filename)
+16:23:22	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-QARRFSX4.js
+16:23:22	Warning: 	Unable to test https://flockerz.com/chunk-UUTKIRVD.js (loop to same filename)
+16:23:22	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/chunk-UUTKIRVD.js
+16:23:23	Warning: 	Unable to test https://flockerz.com/polyfills-EDZXTLZR.js (loop to same filename)
+16:23:23	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/polyfills-EDZXTLZR.js
+16:23:23	Warning: 	Unable to test https://flockerz.com/main-37F37ZOY.js (loop to same filename)
+16:23:23	Warning: 	link is probably looping, type unknown, aborting: https://flockerz.com/main-37F37ZOY.js
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 50 seconds : 65 links scanned, 62 files written (22984758 bytes overall) [21255711 bytes received at 32701 bytes/sec], 3118599 bytes transferred using HTTP compression in 28 files, ratio 38%, 4.4 requests per connection
+(1 errors, 119 warnings, 0 messages)
