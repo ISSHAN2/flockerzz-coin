@@ -522,6 +522,98 @@
       }
     }
 
+    /* General Styling */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+section {
+  padding: 100px;
+  border-bottom: 1px solid #ddd;
+}
+
+.sticky-navbar {
+  position: sticky;
+  top: 0;
+  background: linear-gradient(90deg, #f5882d, #d6a3dc, #0844d3);
+  animation: navbarGradient 6s linear infinite;
+  z-index: 1000;
+  padding: 10px 20px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-list li {
+  position: relative;
+}
+
+.navbar-list a {
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.navbar-list a:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.8);
+}
+
+.navbar-list a.highlight {
+  color: #0844d3;
+  background: white;
+  animation: pulse 2s infinite;
+}
+
+/* Animations */
+@keyframes navbarGradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 5px rgba(8, 68, 211, 0.5);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(8, 68, 211, 0.9);
+  }
+  100% {
+    box-shadow: 0 0 5px rgba(8, 68, 211, 0.5);
+  }
+}
+
+/* Sticky Behavior */
+.sticky-navbar {
+  transition: transform 0.3s;
+}
+
+.sticky-navbar:hover {
+  transform: translateY(-5px);
+}
+
+
             body {
                 margin: 0;
                 font-family: var(--bs-body-font-family);
@@ -3734,8 +3826,19 @@
             <router-outlet _ngcontent-ng-c2903096762> </router-outlet>
             <app-language _nghost-ng-c2459934479 ngh="9">
                 <app-header _ngcontent-ng-c2459934479 _nghost-ng-c4253741092 ngh="0">
-                    <!---->
-                    <!---->
+                    <nav class="sticky-navbar">
+                        <ul class="navbar-list">
+                          <li><a href="#how-to-buy">How to Buy</a></li>
+                          <li><a href="#roadmap">Roadmap</a></li>
+                          <li><a href="#whitepaper">Whitepaper</a></li>
+                          <li><a href="#staking">Staking</a></li>
+                          <li><a href="#faq">FAQ</a></li>
+                          <li><a href="#bitchy-story">Bitchy Story</a></li>
+                          <li><a href="#buy-now" class="highlight">Buy Now</a></li>
+                        </ul>
+                      </nav>
+                      
+                      
                 </app-header>
                 <router-outlet _ngcontent-ng-c2459934479> </router-outlet>
                 <app-home _nghost-ng-c237573664 ngh="1">
@@ -4055,7 +4158,7 @@
                                         <img _ngcontent-ng-c3646874086 src="assets/images/gif/king-img.gif" alt="king" class="img-fluid king-img" />
                                         <img _ngcontent-ng-c3646874086 src="assets/images/svg-icons/wtf-img.svg" alt="wtf" class="img-fluid wtf-img" />
                                         <img _ngcontent-ng-c3646874086 src="assets/images/svg-icons/zap-img.svg" alt="zap" class="img-fluid zap-img" />
-                                        <img _ngcontent-ng-c3646874086 src="assets/images/pngs/welcome-about.png" alt="zap" class="img-fluid welcome-img" />
+                                        <img _ngcontent-ng-c3646874086 src="assets/images/design.png" alt="zap" class="img-fluid welcome-img" />
                                         <div _ngcontent-ng-c3646874086 class="mobile-bottom-container d-block d-sm-none">
                                             <div _ngcontent-ng-c3646874086 class="mobile-bottom-bg"></div>
                                         </div>
